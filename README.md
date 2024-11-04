@@ -1,4 +1,4 @@
-### Olá! eu sou a Letícia😸
+### ...
 ![LmayuXD GitHub stats](https://github-readme-stats.vercel.app/api?username=LmayuXD&show_icons=true&theme=tokyonight)
 
 ## Tecnologias
