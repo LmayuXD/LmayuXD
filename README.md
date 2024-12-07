@@ -1,7 +1,6 @@
-### ...
-![LmayuXD GitHub stats](https://github-readme-stats.vercel.app/api?username=LmayuXD&show_icons=true&theme=tokyonight)
+<img width=100% bottom=50px src="https://pm1.aminoapps.com/7015/0102226ac2e9bd46eec572464ee9b7ed010be3a6r1-1500-500v2_uhq.jpg"/>
 
-## Tecnologias
+![LmayuXD GitHub stats](https://github-readme-stats.vercel.app/api?username=LmayuXD&theme=shadow_red)
 
 <div style="display: inline_block"></br>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
