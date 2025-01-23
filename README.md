@@ -11,7 +11,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="right" alt="Rafa-CSS" height="220" width="220" src="https://media0.giphy.com/media/TdWW9DbX4YYhzpf3eC/giphy.gif?cid=6c09b9522npot86h7l0ob42k8u0937izu81l2v84r6nh8vdg&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
-<br>
 
 ## 
 
