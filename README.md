@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://pm1.aminoapps.com/7015/0102226ac2e9bd46eec572464ee9b7ed010be3a6r1-1500-500v2_uhq.jpg"/>
+<img width=100% bottom=50px src="https://i.pinimg.com/originals/d9/f1/a4/d9f1a4d3ce888be041983c3708037acc.gif"/>
 
 ![LmayuXD GitHub stats](https://github-readme-stats.vercel.app/api?username=LmayuXD&theme=shadow_red)
 
