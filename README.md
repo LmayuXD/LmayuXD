@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://i.pinimg.com/originals/d9/f1/a4/d9f1a4d3ce888be041983c3708037acc.gif"/>
+<img width=100% bottom=50px src="https://i.pinimg.com/originals/1e/12/1c/1e121c1f64dcb8c549a7fe13264cfe1d.gif"/>
 
 ![LmayuXD GitHub stats](https://github-readme-stats.vercel.app/api?username=LmayuXD&theme=shadow_red)
 
