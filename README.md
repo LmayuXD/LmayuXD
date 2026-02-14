@@ -1,5 +1,5 @@
 # Hey there! q(≧▽≦q)
-<p>I'm Letícia, a Computer Science student and full-stack developer in training, building pratical projects across both frontend and backend to develop solid end-to-end solutions.</p><br>
+<p>I'm Letícia, a Computer Science student and full-stack developer in training, building practical projects across both frontend and backend to develop solid end-to-end solutions.</p><br>
 
 <p>I actively develop personal and academic projects to strengthen my skills in software development, system design, and clean, maintainable code.</p><br>
 
@@ -7,14 +7,14 @@
 
 ## Languages & Technologies
 <ul>
-  <li><b>Languages:</b> JavaScript | Typescript | Java | PHP | Python</li>
+  <li><b>Languages:</b> JavaScript | TypeScript | Java | PHP | Python</li>
   <li><b>Technologies:</b> React | Node.js | Express</li>
 </ul>
 
 ## Databases & Infrastructure
 <ul>
   <li><b>Databases:</b> MongoDB | MySQL | Prisma</li>
-  <li><b>Infrastructure:</b>: Vercel | Firebase | Supabase</li>
+  <li><b>Infrastructure:</b> Vercel | Firebase | Supabase</li>
 </ul>
 
 ## Other (design) tools
