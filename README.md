@@ -1,24 +1,35 @@
-<img width=100% bottom=50px src="https://i.pinimg.com/originals/d9/f1/a4/d9f1a4d3ce888be041983c3708037acc.gif"/>
+# Hey there! q(≧▽≦q)
+<p>I'm Letícia, a Computer Science student and full-stack developer in training, building pratical projects across both frontend and backend to develop solid end-to-end solutions.</p><br>
 
-![LmayuXD GitHub stats](https://github-readme-stats.vercel.app/api?username=LmayuXD&theme=shadow_red)
+<p>I actively develop personal and academic projects to strengthen my skills in software development, system design, and clean, maintainable code.</p><br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Rafa-CSS" height="220" width="220" src="https://media0.giphy.com/media/TdWW9DbX4YYhzpf3eC/giphy.gif?cid=6c09b9522npot86h7l0ob42k8u0937izu81l2v84r6nh8vdg&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</div>
-<br>
+<p>I am currently exploring different technologies and approaches in order to build a solid and well-rounded full-stack foundation.</p>
 
-## 
+## Languages & Technologies
+<ul>
+  <li><b>Languages:</b> JavaScript | Typescript | Java | PHP | Python</li>
+  <li><b>Technologies:</b> React | Node.js | Express</li>
+</ul>
 
-<div style="display: inline_block"></br>
-<img aling="center" alt="html5" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-<img aling="center" alt="html5" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-</div>
+## Databases & Infrastructure
+<ul>
+  <li><b>Databases:</b> MongoDB | MySQL | Prisma</li>
+  <li><b>Infrastructure:</b>: Vercel | Firebase | Supabase</li>
+</ul>
+
+## Other (design) tools
+<ul>
+  <li>Figma | Krita | Canva</li>
+</ul>
+
+## How to contact me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/letícia-feitozaa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ticiafeitozaa)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/553957292605833218)
+
+##
+
+<img alt=img width=100% top=50px src="https://i.pinimg.com/originals/d9/f1/a4/d9f1a4d3ce888be041983c3708037acc.gif"/>
+
+
